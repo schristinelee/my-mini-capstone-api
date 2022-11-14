@@ -9,9 +9,9 @@ POST http://localhost:3000/products.json
 Content-Type: application/json
 
 {
-  "name": "TEST NAME",
-  "price": "bob",
-  "image_url": "test image url",
+  "name": "Cat Backpack",
+  "price": "42",
+  "supplier_id": 2,
   "description": "test test test"
 }
 
